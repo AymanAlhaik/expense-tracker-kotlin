@@ -3,7 +3,6 @@ package com.ayman.goodbyemoney.ui.theme
 import androidx.compose.ui.graphics.Color
 
 
-// Colors extracted from your screenshots
 val Black = Color(0xFF000000)
 val Background = Color(0xFF000000)
 val Surface = Color(0xFF1C1C1E)
